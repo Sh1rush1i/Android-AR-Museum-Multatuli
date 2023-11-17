@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Biji_Kopi" size="1477.000000 1040.000000" />
+    <ImageTarget name="Tombak_Uang" size="1477.000000 1040.000000" />
+    <ImageTarget name="Kopi" size="1477.000000 1040.000000" />
+    <ImageTarget name="Kapal" size="1477.000000 1040.000000" />
+    <ImageTarget name="Multatuli" size="1477.000000 1040.000000" />
+  </Tracking>
+</QCARConfig>
