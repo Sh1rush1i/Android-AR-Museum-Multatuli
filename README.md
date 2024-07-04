@@ -1,7 +1,7 @@
 # AR-Museum-Multatuli
 
-Augmented Reality Museum Multatuli Android App with Unity and Vuforia
-Augmented Reality | Final Assignment
+> Augmented Reality Museum Multatuli Android App with Unity and Vuforia
+> Augmented Reality | Final Assignment
 
 ## User Interface
 
